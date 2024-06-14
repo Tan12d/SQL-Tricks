@@ -1,0 +1,1 @@
+SELECT RANDOM() AS random_number;
